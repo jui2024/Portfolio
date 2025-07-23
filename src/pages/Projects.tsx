@@ -9,7 +9,7 @@ const Projects = () => {
     {
       title: 'Car Rental system',
       description: 'The Car Rental System is a web-based application designed to simplify the process of booking rental cars. It allows users to browse available vehicles, check availability, make reservations, and manage bookings online. The system includes features for both customers and administrators, such as car listings, user authentication, rental history tracking, and payment management. It aims to streamline operations for rental agencies while providing a convenient and user-friendly experience for customers.',
-      image: '/src/assets/image.png',
+      image: '/assets/image.png',
       technologies: ['C++', 'Java', 'MongoDB'],
       category: 'Begineer Friendly Project',
       links: {
@@ -21,7 +21,7 @@ const Projects = () => {
     {
       title: 'Prediction of sales & production for patients After covid-19 breakdown using ML',
       description: 'Prediction of Sales & Production for Patients After COVID-19 Breakdown Using Machine Learning. This project aims to analyze and predict the trends in sales and production of medical resources for patients in the post-COVID-19 period using Machine Learning techniques. By studying historical data related to medicine consumption, hospital supplies, and patient needs, the model forecasts future demands to help healthcare providers and pharmaceutical companies optimize their production and inventory. The goal is to ensure efficient resource planning and timely availability of essential medical products in response to fluctuating healthcare demands in the aftermath of the pandemic.',
-      image: '/src/assets/a.png',
+      image: '/assets/a.png',
       technologies: ['React', 'ML', 'Firebase'],
       category: 'Full Stack',
       links: {
@@ -33,7 +33,7 @@ const Projects = () => {
     {
       title: 'Live Event Detection for public safety using sparse LSTM Networks In Hazard Monitoring Systems',
       description: 'Live Event Detection for Public Safety Using Sparse LSTM Networks in Hazard Monitoring Systems. This project focuses on real-time detection of hazardous events such as natural disasters, fires, or public safety threats using Sparse Long Short-Term Memory (LSTM) networks. The system processes continuous sensor data and surveillance inputs to identify unusual patterns or anomalies that indicate potential danger. ',
-      image: '/src/assets/b.png',
+      image: '/assets/b.png',
       technologies: ['Vue.js', 'OpenWeather API', 'Chart.js', 'SCSS'],
       category: 'Frontend',
       links: {
